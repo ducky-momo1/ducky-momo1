@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm Momoka, a Computer Science student at the City College of New York's Grove School of Engineering. I'm looking to apply my knowledge of software in a number of areas, including game development, robotics, and cybersecurity! I'm currently exploring the option of machine learning as a participant in Break Through Tech's AI Program, where I will soon be creating models to solve real world problems.
+I'm Momoka, a Computer Science student at the City College of New York's Grove School of Engineering. I'm looking to apply my knowledge of software in a number of areas, including game development, robotics, and cybersecurity! I'm currently exploring the option of machine learning as a Fellow in Break Through Tech's AI Program, where I will soon be creating models to solve real world problems.
 
 ### Tech Stack 🛠️
 Languages:
