@@ -28,7 +28,7 @@ IDEs/Editors:
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 
 ### Extracurriculars/Hobbies 🤖
-You'll sometimes see me getting involved with FIRST, a global nonprofit robotics organization, whether it's through volunteering at competitions, mentoring my former high school's FIRST Tech Challenge team, or watching FIRST Robotics Competition matches. I also like to spend my time learning new technical skills or playing video games!
+You'll sometimes see me getting involved with FIRST, a global nonprofit robotics organization, whether it's through volunteering at competitions, mentoring my former high school's FIRST Tech Challenge team, or watching FIRST Robotics Competition matches. I also like to spend my time playing video games or watching videos about games!
 
 ### Contact 📩
 - Email: momokayonashiro@gmail.com
