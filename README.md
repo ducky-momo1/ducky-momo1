@@ -2,10 +2,12 @@
 
 I'm Momoka, a Computer Science student at the City College of New York's Grove School of Engineering. I'm looking to apply my knowledge of software in a number of areas, including game development, robotics, and cybersecurity! I'm currently exploring machine learning as a Fellow in Break Through Tech's AI Program, where I create predictive models that aim to solve real-world problems.
 
-## Featured Project: [Power Outage Prediction Model](https://github.com/Adewale-1/Abt_Global_1B) for Abt Global ⚡️
-My team of 5 Break Through Tech AI/ML Fellows and I have been designing, developing, training, and evaluating machine learning models for research/technical assistance firm Abt Global to predict electrical power outages using weather data.
+### Featured Project: [Power Outage Prediction Model](https://github.com/Adewale-1/Abt_Global_1B) for Abt Global ⚡️
+My team of 5 Break Through Tech AI/ML Fellows and I designed, developed, trained, and evaluated machine learning models for research/technical assistance firm Abt Global to predict electrical power outages using weather data.
 
-Using Python libraries NumPy, Pandas, and scikit-learn, we've performed data cleaning, feature engineering, and hyperparameter tuning techniques to train numerous regression models that all have an accuracy of over 90%. We're currently working on creating a model for each of our 12 strategically selected counties to generate even more accurate results that are tailored to the weather of that specific region.
+Using Python libraries NumPy, Pandas, scikit-learn, and Seaborn, we've implemented data cleaning, feature engineering, and hyperparameter tuning techniques to train numerous regression models. From predicting a severe versus non-severe outage to predicting locally versus nation-wide, each model aimed to provide insight from a different angle.
+
+For our local predictions, we've created a model for each of our 12 strategically selected counties to generate results tailored to that  region's weather. I took on the development of the models for our two California counties: San Francisco and San Diego. Both logistic regression models, they utilize their most correlated features to predict severe versus non-severe power outages. The Python code can be found in src/models/correlated_ca_counties_severe_vs_nonsevere.py.
 
 ### Tech Stack 🛠️
 Languages:
@@ -24,6 +26,7 @@ Libraries:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 
 IDEs/Editors:
