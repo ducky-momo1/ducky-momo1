@@ -1,6 +1,6 @@
 ## Hello! 🦕
 
-I'm Momoka, a Computer Science student at the City College of New York's Grove School of Engineering. I'm looking to apply my knowledge of software in a number of areas, including game development, robotics, and cybersecurity! I'm currently exploring machine learning as a Fellow in Break Through Tech's AI Program, where I create predictive models that aim to solve real-world problems.
+I'm Momoka, a Computer Science student at the City College of New York's Grove School of Engineering. I'm looking to apply my knowledge of software in a number of areas, including game development, robotics, and cybersecurity! I recently graduated from Break Through Tech's AI/ML Program, where I created predictive models that aimed to solve real-world problems. I'll be exploring full-stack web development as a Fellow in CUNY Tech Prep's 12th Cohort in the coming months!
 
 ### Featured Project: [Power Outage Prediction Model](https://github.com/Adewale-1/Abt_Global_1B) for Abt Global ⚡️
 My team of 5 Break Through Tech AI/ML Fellows and I designed, developed, trained, and evaluated 14 machine learning models for research/technical assistance firm Abt Global to predict electrical power outages using weather data.
